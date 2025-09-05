@@ -1,0 +1,4 @@
+torch>=1.9.0
+torchani>=2.2
+ase>=3.22.1
+numpy
